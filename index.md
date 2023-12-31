@@ -45,7 +45,7 @@ En el curso se elaborarán dos proyectos, los cuales se describirán más adelan
 
 * [R. Duda, P. Hart, D. Stork (2000). *Pattern classification*.](http://library.lol/main/5858DCFE63D714C5C42F433D5F821631){:target="_blank"}
 
-* [](){:target="_blank"}
+* [G. Strang (2019). *Linear Algebra and Learning from Data*.](http://library.lol/main/A556CCA72B3B8F9D8186E3685FFC8877){:target="_blank"}
 
 ### Referencias adicionales:
 
