@@ -77,8 +77,4 @@ En el curso se elaborarán dos proyectos, los cuales se describirán más adelan
 
 * [P. Rigollet (2015). *Mathematics for Machine Learning*.](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf){:target="_blank"}
 
-### Artículos:
-
-* [A. S. Bandeira (2016). *Ten Lectures and Forty-Two Open Problems in the Mathematics of Data Science*.](https://people.math.ethz.ch/~abandeira/TenLecturesFortyTwoProblems.pdf){:target="_blank"}
-
 ---
