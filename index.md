@@ -25,8 +25,11 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 **No.**  | **Fecha**    | **Tópicos**                                                 | **Recursos**
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
 01       | 08.01.2024   | Introducción. Repaso de Probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
-02       | 10.01.2024   | Variables Aleatorias y Distribuciones. Comparación de Distribuciones. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
+02       | 10.01.2024   | Variables Aleatorias. Comparación de Distribuciones. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
 03       | 15.01.2024   | Estadísticos: localización, varianza, covarianza y correlación. Entropía [Aula 03](aulas/Aula03.pdf){:target="_blank"} | 
+04       | 17.01.2024   | Distribucicones Multivariadas.  | 
+
+L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Fecha de entrega: miércoles 31 de enero.**
 
 
 # Proyecto
