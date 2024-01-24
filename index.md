@@ -30,6 +30,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 04       | 17.01.2024   | Distribucicones Multivariadas. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
 L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Fecha de entrega: miércoles 31 de enero.**
 05       | 22.01.2024   | Análisis de Componentes Principales (PCA). <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
+06       | 24.01.2024   | Interpretación del PCA.  |  
 
 
 # Proyecto
