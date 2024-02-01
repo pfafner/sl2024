@@ -33,8 +33,7 @@ L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [a
 06       | 24.01.2024   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"} 
 07       | 29.01.2024   | Escalamiento Multidimensional. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  
 08       | 31.01.2024   | Extensiones de PCA:  | 
-L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Entrega: Miércoles 31 de enero.**
-
+L2       | 31.01.2024   |   | [Lista 2](listas/lista02.pdf){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: Miércoles 14 de febrero.**
 
 
 # Proyecto
