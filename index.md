@@ -32,6 +32,9 @@ L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [a
 05       | 22.01.2024   | Análisis de Componentes Principales (PCA). <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
 06       | 24.01.2024   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"} 
 07       | 29.01.2024   | Escalamiento Multidimensional. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  
+08       | 31.01.2024   | Extensiones de PCA:  | 
+L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Entrega: Miércoles 31 de enero.**
+
 
 
 # Proyecto
