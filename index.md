@@ -29,10 +29,10 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 03       | 15.01.2024   | Estadísticos: localización, varianza, covarianza y correlación. Entropía [Aula 03](aulas/Aula03.pdf){:target="_blank"} | 
 04       | 17.01.2024   | Distribuciones Multivariadas. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
 L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} <br/> **Entrega: Miércoles 31 de enero.**
-05       | 22.01.2024   | Análisis de Componentes Principales (PCA). <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
+05       | 22.01.2024   | Análisis de Componentes Principales (PCA). [Aula 05](aulas/Aula05.pdf){:target="_blank"} | 
 06       | 24.01.2024   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb){:target="_blank"} <br/> [deport.csv](code/deport.csv){:target="_blank"} 
 07       | 29.01.2024   | Escalamiento Multidimensional. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  
-08       | 31.01.2024   | Extensiones de PCA:  | 
+08       | 31.01.2024   | Extensiones de PCA: PCA Robusto, Minimum Ellipsoid, Kernel PCA. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
 L2       | 31.01.2024   |   | [Lista 2](listas/lista02.pdf){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: Miércoles 14 de febrero.**
 
 
