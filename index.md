@@ -34,6 +34,7 @@ L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [a
 07       | 29.01.2024   | Escalamiento Multidimensional. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} |  
 08       | 31.01.2024   | Extensiones de PCA: PCA Robusto, Minimum Ellipsoid, Kernel PCA. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
 L2       | 31.01.2024   |   | [Lista 2](listas/lista02.pdf){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: Miércoles 14 de febrero.**
+09       | 05.02.2024   | Variables Latentes: Análisis de Componentes Independientes (ICA). [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
 
 
 # Proyecto
