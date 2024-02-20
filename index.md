@@ -37,7 +37,7 @@ L2       | 31.01.2024   |   | [Lista 2](listas/lista02.pdf){:target="_blank"} [c
 09       | 05.02.2024   | Variables Latentes: Análisis de Componentes Independientes (ICA). [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
 10       | 07.02.2024   | Variables Latentes: Factoración NNMF. Sistemas de recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [recommender.ipynb](code/recommender.ipynb){:target="_blank"} <br/> [movies.csv](code/movies.csv){:target="_blank"} [ratings.csv](code/ratings.csv){:target="_blank"} 
 11       | 12.02.2024   | Métodos Locales I: IsoMap, UMap, SNE y t-SNE. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
-12       | 19.02.2024   |   | 
+11       | 19.02.2024   | Métodos Locales II: LLE y variantes, SOM.  | 
 
 
 # Proyecto
