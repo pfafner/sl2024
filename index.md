@@ -36,8 +36,8 @@ L1       | 17.01.2024   |   | [Lista 1](listas/lista01.pdf){:target="_blank"} [a
 L2       | 31.01.2024   |   | [Lista 2](listas/lista02.pdf){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} <br/> **Entrega: Miércoles 14 de febrero.**
 09       | 05.02.2024   | Variables Latentes: Análisis de Componentes Independientes (ICA). [Aula 09](aulas/Aula09.pdf){:target="_blank"} | 
 10       | 07.02.2024   | Variables Latentes: Factoración NNMF. Sistemas de recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [recommender.ipynb](code/recommender.ipynb){:target="_blank"} <br/> [movies.csv](code/movies.csv){:target="_blank"} [ratings.csv](code/ratings.csv){:target="_blank"} 
-11       | 12.02.2024   | Métodos Locales I: IsoMap, UMap, SNE y t-SNE. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
-12       | 19.02.2024   | Métodos Locales II: LLE y variantes, SOM.  | 
+11       | 12.02.2024   | Métodos Locales I: IsoMap, SNE y t-SNE, UMAP. [Aula 11](aulas/Aula11.pdf){:target="_blank"} | 
+12       | 19.02.2024   | Métodos Locales II: LLE y variantes, Autoencoders, SOM. [Aula 12](aulas/Aula12.pdf){:target="_blank"}  | 
 L3       | 19.02.2024   |   | [Lista 3](listas/lista03.pdf){:target="_blank"} [wines.csv](listas/wines.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} 
 
 # Proyecto
