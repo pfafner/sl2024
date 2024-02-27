@@ -40,7 +40,7 @@ L2       | 31.01.2024   |   | [Lista 2](listas/lista02.pdf){:target="_blank"} [c
 12       | 19.02.2024   | Métodos Locales II: LLE y variantes, Autoencoders, SOM. [Aula 12](aulas/Aula12.pdf){:target="_blank"}  | 
 L3       | 19.02.2024   |   | [Lista 3](listas/lista03.pdf){:target="_blank"} [wines.csv](listas/wines.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} <br/> **Entrega: Lunes 04 de marzo.**
 13       | 21.02.2024   | Densidades basadas en Kernels (KDE). Histogramas. Selección de bines y *bandwidth*. | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"} <br/> [Métodos para definir *bandwidth*](https://aakinshin.net/posts/kde-bw/){:target="_blank"}
-14       | 26.02.2024   | Agrupamiento Jerárquico. <br/>  | 
+14       | 26.02.2024   | Agrupamiento Jerárquico. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"}  | 
 
 
 # Proyecto
