@@ -51,7 +51,15 @@ L4       | 06.03.2024   |   | [Lista 4](listas/lista04.pdf){:target="_blank"} <b
 # Proyecto
 <div id='id-prj1'/>
 
-En el curso se elaborarán dos proyectos, los cuales se describirán más adelante.
+En el curso se elaborarán dos proyectos.
+
+## Primer Proyecto
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P1       | 13.03.2024   | [Proyecto 1](proyectos/proyecto1.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyectos/stations.json){:target="_blank"} [stations.csv](proyectos/stations.csv){:target="_blank"} 
+.        | 08-10.04.2024   | Presentaciones 
+.        | 14.04.2024   | Entrega del reporte, código y presentación
 
 
 # Referencias
