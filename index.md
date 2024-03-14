@@ -42,7 +42,7 @@ L3       | 19.02.2024   |   | [Lista 3](listas/lista03.pdf){:target="_blank"} [w
 13       | 21.02.2024   | Densidades basadas en Kernels (KDE). Histogramas. Selección de bines y *bandwidth*. | [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"} <br/> [Métodos para definir *bandwidth*](https://aakinshin.net/posts/kde-bw/){:target="_blank"}
 14       | 26.02.2024   | Agrupamiento Jerárquico. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"}  | 
 15       | 29.02.2024   | Ejemplos de agrupamiento Jerárquico. <br/>  | [countries_binary.xlsx](code/countries_binary.xlsx){:target="_blank"} 
-16       | 04.03.2024   | K-medias, K-medianas, K-mediodes. <br/> | [k-means.ipynb](code/k-means.ipynb){:target="_blank"} [k-means-other-distances.ipynb](code/k-means-other-distances.ipynb){:target="_blank"}
+16       | 04.03.2024   | K-medias, K-medianas, K-mediodes. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [k-means.ipynb](code/k-means.ipynb){:target="_blank"} [k-means-other-distances.ipynb](code/k-means-other-distances.ipynb){:target="_blank"}
 15       | 06.03.2024   | Fuzzy K-medias. Ejemplos de agrupamiento con K-medias. <br/>  | Comentarios sobre la maldición de la dimensionalidad. <br/> [Raúl Rojas dimensionality.pdf](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/dimensionality.pdf){:target="_blank"} <br/> Ver también Cap. 1 libro de Giraud.
 L4       | 06.03.2024   |   | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: Viernes 22 de marzo.**
 16       | 13.03.2024   | Mezclas Gaussianas. <br/> |  
