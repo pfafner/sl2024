@@ -45,7 +45,7 @@ L3       | 19.02.2024   |   | [Lista 3](listas/lista03.pdf){:target="_blank"} [w
 16       | 04.03.2024   | K-medias, K-medianas, K-mediodes. <br/> | [k-means.ipynb](code/k-means.ipynb){:target="_blank"} [k-means-other-distances.ipynb](code/k-means-other-distances.ipynb){:target="_blank"}
 15       | 06.03.2024   | Fuzzy K-medias. Ejemplos de agrupamiento con K-medias. <br/>  | Comentarios sobre la maldición de la dimensionalidad. <br/> [Raúl Rojas dimensionality.pdf](https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/dimensionality.pdf){:target="_blank"} <br/> Ver también Cap. 1 libro de Giraud.
 L4       | 06.03.2024   |   | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: Viernes 22 de marzo.**
-16       | 13.03.2024   | Mezclas Gaussianas. <br/> | 
+16       | 13.03.2024   | Mezclas Gaussianas. <br/> |  
 
 
 # Proyecto
