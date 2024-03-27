@@ -47,6 +47,7 @@ L3       | 19.02.2024   |   | [Lista 3](listas/lista03.pdf){:target="_blank"} [w
 L4       | 06.03.2024   |   | [Lista 4](listas/lista04.pdf){:target="_blank"} <br/> **Entrega: Viernes 22 de marzo.**
 16       | 13.03.2024   | Mezclas Gaussianas. <br/> |  
 17       | 18.03.2024   | Algoritmos basados en densidad: *Mean-shift*, DBSCAN, OPTICS, BIRCH. |  
+ .       |    |    |  
 
 
 # Proyecto
